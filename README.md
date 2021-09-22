@@ -4,7 +4,7 @@ Face detection is everywhere in our days: phone cameras, Snapchat filters, self-
 ### Simple face detection 
 
 
-Check the Youtube [simple face detection demo!]()
+Check the Youtube [simple face detection demo!](https://youtu.be/c2FWFGIWlik)
 
 ### Age aproximation 
 

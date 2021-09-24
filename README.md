@@ -14,5 +14,6 @@ Take a look at some examples where face detection does a great job to detect peo
 ![Barack Obama](outputs/output6.jpg)
 ![Lewis Hamilton](outputs/output7.jpg)
 ![Stephen King](outputs/output8.jpg)
+![Grigore Moisil](outputs/output9.jpg)
 
 Check the Youtube [simple face detection demo!](https://youtu.be/c2FWFGIWlik)
